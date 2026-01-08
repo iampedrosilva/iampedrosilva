@@ -28,15 +28,6 @@
   <img src="https://skillicons.dev/icons?i=js,nodejs,react,mongodb,nextjs,git,postgres,python" />
 </p>
 
-
----
-
-## 🚀 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampedrosilva&layout=compact&theme=radical" />
-</p>
-
 ---
 
 ## 📫 Como me encontrar
