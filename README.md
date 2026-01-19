@@ -18,7 +18,7 @@
 ## 🧠 Sobre mim
 🌱 Atualmente explorando desenvolvimento front-end e back-end.  
 💻 Gosto de construir páginas e aplicações completas.  
-🌍 Baseado em Goiânia, GO – BRASIL 🇧🇷.
+🌍 Goiânia, GO – BRASIL 🇧🇷.
 
 ---
 
